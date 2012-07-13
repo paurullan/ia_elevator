@@ -1,0 +1,2 @@
+env = Environment(PDFLATEXFLAGS="-shell-escape -halt-on-error")
+env.PDF("document.tex")

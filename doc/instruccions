@@ -1,0 +1,71 @@
+Instruccions per aconseguir el minted.sty
+=========================================
+
+http://tug.ctan.org/pkg/minted
+http://stackoverflow.com/questions/1966425/source-code-highlighting-in-latex
+
+1. agafar el codi directament doncs encara no està adins cap paquet LaTeX
+wget http://minted.googlecode.com/hg/minted.sty
+
+2. instaŀlar pygments
+sudo aptitude install python-pygments
+
+3. Heureu de canviar els vostres scripts de compilació i enlloc de fer el típic:
+pdflatex document.tex
+
+a partir d'ara fareu:
+
+pdflatex -shell-escape document.tex
+
+És important notar la «e» d'«escape», que a mi se me va passar
+
+4. Ara podem:
+
+  a. afegir el codi directament dins el LaTex
+    \begin{minted}{python}
+    for i in range(10):
+        if g(i) == 5:
+            return i
+    \end{minted}
+
+  b. fer un «one-liner»
+    \mint{python}|lambda x: x**2+1|
+
+  c. afegir codi des d'un fitxer
+
+
+5. Recordau que el pdflatex no pot llegir caràcters unicode. En cas de que
+enxufeu caràcters dins el codi com «ŀ» o  «→» haureu de menester el xetex.
+
+6. En algunes situacions vos pot ser útil canviar el tamany del marge, vos
+recordo el:
+
+\newpage
+\addtolength{\hoffset}{-2cm}
+\inputminted[linenos, frame=lines, fontsize=\small]{ada}{a.adb}
+\newpage
+\addtolength{\hoffset}{+2cm}
+
+
+7. A mi m'agrada que surtin el nombre de línia, una retxeta a sobre i abaix del
+codi i reduir el tamany del tipus de lletra. Seria:
+
+\inputminted[linenos, frame=lines, fontsize=\small]{python}{../test.py}
+
+8. Típicament el codi jo el deixo dins una pàgina nova i llevant els marges amb
+un \addtolength{\hoffset}{-2cm}: així 80 columnes caben amb un tipus de lletra
+\small. Si no es vol llevar el marge amb un tamany \footnotesize generalment hi
+cap.
+
+9. Per claretat de lectura ens serà útil per una macro amb totes les opcions i
+un nom més curt:
+
+\newcommand{\pycode}[1]{
+  \inputminted[linenos, frame=lines, fontsize=\small]{python}{../#1.py}
+}
+
+Així podem fer un simple \pycode{nom} i ja tindrem el codi afegit.
+
+
+
+I genera un codi Ada preciós!

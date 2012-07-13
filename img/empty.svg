@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="128"
+   id="svg11300"
+   inkscape:export-filename="/home/atm/BZR-WORK/breathe-icon-set/source_svg/rendered/folder.png"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-ydpi="90.000000"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="empty.svg"
+   sodipodi:version="0.32"
+   style="display:inline"
+   version="1.0"
+   width="128">
+  <title
+     id="title4119">Breathe Icon Theme computer</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient6099">
+      <stop
+         id="stop6101"
+         offset="0"
+         style="stop-color: rgb(245, 216, 67); stop-opacity: 0;" />
+      <stop
+         id="stop6110"
+         offset="0.25"
+         style="stop-color: rgb(251, 239, 175); stop-opacity: 0.498039;" />
+      <stop
+         id="stop6108"
+         offset="0.5"
+         style="stop-color: rgb(245, 216, 67); stop-opacity: 1;" />
+      <stop
+         id="stop6103"
+         offset="1"
+         style="stop-color: rgb(245, 216, 67); stop-opacity: 0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6067">
+      <stop
+         id="stop6069"
+         offset="0"
+         style="stop-color: rgb(184, 127, 56); stop-opacity: 1;" />
+      <stop
+         id="stop6071"
+         offset="1"
+         style="stop-color: rgb(231, 180, 24); stop-opacity: 1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3784-6">
+      <stop
+         id="stop3786-8"
+         offset="0"
+         style="stop-color:#f9b462;stop-opacity:1;" />
+      <stop
+         id="stop3788-2"
+         offset="1"
+         style="stop-color:#f46f0f;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(2.8807527,0,0,2.7615792,126.62282,-224.39675)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2661"
+       inkscape:collect="always"
+       x1="79.490326"
+       x2="96.127853"
+       xlink:href="#linearGradient6099"
+       y1="-46.872349"
+       y2="-47.037727" />
+    <linearGradient
+       gradientTransform="matrix(0,-1.2248603,1.2808251,0,-10.328115,139.91123)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2664"
+       inkscape:collect="always"
+       x1="23.058821"
+       x2="81.277596"
+       xlink:href="#linearGradient6067"
+       y1="119.4626"
+       y2="95.420967" />
+    <linearGradient
+       gradientTransform="matrix(1.2248603,0,0,1.2808251,-139.2988,-10.968528)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2667"
+       inkscape:collect="always"
+       x1="96.259338"
+       x2="19.841791"
+       xlink:href="#linearGradient3784-6"
+       y1="104.5"
+       y2="104.5" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2669"
+       inkscape:collect="always"
+       x1="-56.637432"
+       x2="-58.942196"
+       xlink:href="#linearGradient3784-6"
+       y1="11.545954"
+       y2="97.914803" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2671"
+       inkscape:collect="always"
+       x1="-113.63709"
+       x2="-52.325905"
+       xlink:href="#linearGradient6067"
+       y1="109.36738"
+       y2="39.363808" />
+    <linearGradient
+       gradientTransform="matrix(2.8936932,0,0,2.842363,-131.81398,101.37077)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2676"
+       inkscape:collect="always"
+       x1="79.490326"
+       x2="96.127853"
+       xlink:href="#linearGradient6099"
+       y1="-46.872349"
+       y2="-47.037727" />
+    <linearGradient
+       gradientTransform="matrix(2.3815241,0,0,2.2766652,-311.17083,248.46711)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2683"
+       inkscape:collect="always"
+       x1="79.490326"
+       x2="96.127853"
+       xlink:href="#linearGradient6099"
+       y1="-46.872349"
+       y2="-47.037727" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7072"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur7074"
+         inkscape:collect="always"
+         stdDeviation="1.6554519" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.0845265"
+       id="filter7076"
+       inkscape:collect="always"
+       width="1.5394735"
+       x="-0.26973677"
+       y="-0.042263247">
+      <feGaussianBlur
+         id="feGaussianBlur7078"
+         inkscape:collect="always"
+         stdDeviation="1.6554519" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7124"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur7126"
+         inkscape:collect="always"
+         stdDeviation="2.729711" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7182"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur7184"
+         inkscape:collect="always"
+         stdDeviation="3.2724854" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2506371"
+       id="filter7236"
+       inkscape:collect="always"
+       width="1.1891665"
+       x="-0.094583243"
+       y="-0.12531853">
+      <feGaussianBlur
+         id="feGaussianBlur7238"
+         inkscape:collect="always"
+         stdDeviation="4.9087281" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     fill="#f57900"
+     gridtolerance="12"
+     guidetolerance="13"
+     height="300px"
+     id="base"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-28.605303"
+     inkscape:cy="137.08114"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:guide-bbox="true"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:window-height="568"
+     inkscape:window-maximized="0"
+     inkscape:window-width="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:zoom="0.99999999"
+     objecttolerance="7"
+     pagecolor="#ffffff"
+     showgrid="false"
+     showguides="true"
+     stroke="#ef2929"
+     width="400px">
+    <inkscape:grid
+       empspacing="5"
+       enabled="true"
+       id="grid5883"
+       spacingx="1px"
+       spacingy="1px"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Breathe Icon Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:title>Breathe Icon Theme folder</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description>folder</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner, Cory Kontros, Oxygen icon team</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="actions/go-last"
+     style="display:inline"
+     transform="translate(-3,-4)">
+    <rect
+       height="256"
+       id="256x256"
+       inkscape:label="256x256"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:none;overflow:visible"
+       width="256"
+       x="26.5"
+       y="32.823101" />
+    <rect
+       height="48"
+       id="48x48"
+       inkscape:label="48x48"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:none;overflow:visible"
+       width="48"
+       x="-35.5"
+       y="32.823101" />
+    <text
+       id="text6091"
+       sodipodi:linespacing="125%"
+       style="font-size:56.11529922px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0pt;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:none;overflow:visible;font-family:Myriad"
+       x="-418.41199"
+       xml:space="preserve"
+       y="34.084801"><tspan
+         id="tspan6093"
+         sodipodi:role="line"
+         x="-418.41199"
+         y="34.084801">audio-x-generic</tspan></text>
+    <g
+       id="layer6"
+       inkscape:groupmode="layer"
+       inkscape:label="plate"
+       sodipodi:insensitive="true"
+       style="display:none" />
+    <g
+       id="Livello_1"
+       transform="translate(387.114,42.495)" />
+    <g
+       id="g3290"
+       transform="translate(443.114,59.8843)" />
+    <g
+       id="g7148"
+       transform="matrix(0.195657,0,0,0.195657,345.265,19.4029)" />
+    <g
+       id="g7555"
+       transform="matrix(0.133333,0,0,0.133333,319.904,105.991)" />
+    <g
+       id="g9283"
+       transform="matrix(1.06667,0,0,1.06667,384.447,40.4706)" />
+    <rect
+       height="256"
+       id="rect4501"
+       inkscape:label="256x256"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:none;overflow:visible"
+       width="256"
+       x="-82.344757"
+       y="8.9524689" />
+    <rect
+       height="256"
+       id="256x256-7"
+       inkscape:label="256x256"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:none;overflow:visible"
+       width="256"
+       x="-78.422073"
+       y="11.420288" />
+    <text
+       id="text3265-2"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-1434.66"
+       xml:space="preserve"
+       y="-1597.53"><tspan
+         id="tspan3267-1"
+         sodipodi:role="line"
+         x="-1434.66"
+         y="-1597.53" /></text>
+    <g
+       id="g2737">
+      <g
+         id="g3586"
+         style="display:inline"
+         transform="matrix(0.1169497,0,0,0.1272617,132.85275,116.3616)">
+        <g
+           id="g3588"
+           transform="translate(117.146,7.48744)" />
+      </g>
+    </g>
+    <g
+       id="g7080-0"
+       style="display:inline;filter:url(#filter7124)"
+       transform="matrix(0.36416336,0,0,0.37429871,133.6175,2.4296611)" />
+    <g
+       id="g2707">
+      <g
+         id="g3540"
+         transform="matrix(0.3838278,0,0,0.3915628,174.77957,7.2892393)" />
+    </g>
+    <g
+       id="g7080-0-5"
+       style="display:inline;filter:url(#filter7182)"
+       transform="matrix(0.23793586,0,0,0.24455806,133.92307,54.657562)" />
+    <g
+       id="g2717">
+      <g
+         id="g3556"
+         transform="matrix(0.244987,0,0,0.2515414,160.22677,57.979483)" />
+    </g>
+    <g
+       id="g7080-0-5-6"
+       style="display:inline;filter:url(#filter7236)"
+       transform="matrix(0.15834326,0,0,0.15722161,135.09023,90.580816)" />
+    <g
+       id="g2727">
+      <g
+         id="g3572"
+         transform="matrix(0.1606013,0,0,0.1668737,152.36848,92.227757)" />
+    </g>
+  </g>
+</svg>
